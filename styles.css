@@ -1,13 +1,6 @@
-/*  your css code here. If applicable */
-#container{
-	margin:20px;
-	
+p:first-line{
+	color:rgb(255, 0, 0);
 }
-span:first-child{
-	color:#f00;
-	font-size:20px;
-}
-span:last-child{
-	color:#f00;
-	font-size:20px;
+p:last-child{
+	color:rgb(255, 0, 0);
 }
